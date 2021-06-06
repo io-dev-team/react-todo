@@ -1,2 +1,2 @@
-# react-toto
+# react-todo
 React open lesson TODO list
